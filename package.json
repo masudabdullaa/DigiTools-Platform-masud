@@ -1,4 +1,5 @@
 {
+  "homepage": "https://masudabdullaa.github.io/DigiTools-Platform-masud",
   "name": "digitools-platform-masud",
   "private": true,
   "version": "0.0.0",
@@ -28,4 +29,5 @@
     "globals": "^17.4.0",
     "vite": "^8.0.4"
   }
+
 }

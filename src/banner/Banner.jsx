@@ -4,8 +4,8 @@ import { IoPlayOutline } from 'react-icons/io5';
 
 const Banner = () => {
     return (
-        <div className=' max-w-[1200px] m-auto flex justify-between items-center gap-x-5 my-18'>
-            <div className='max-w-[640px]'>
+        <div className=' max-w-300 m-auto flex justify-between items-center gap-x-5 my-18'>
+            <div className='max-w-160'>
                 <button className='flex items-center bg-[#E1E7FF] text-[#9514FA] py-2 px-4 rounded-3xl'>
                     <FaCircle className='mr-2'></FaCircle> New: AI-Powered Tools Available</button>
                 <h2 className='text-6xl font-bold text-[#101727] my-8'>Supercharge Your Digital Workflow</h2>

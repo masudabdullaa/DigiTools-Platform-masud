@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.btn1 {
+    background-color: #9514FA;
+    color: #fff;
+    padding: 5px 10px;
+}
+.btn2 {
+    color: #9514FA;
+    background-color: #fff;
+    border: 2px solid #9514FA;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+.banner-image {
+    width: 400px;
+    height: auto;
+}
